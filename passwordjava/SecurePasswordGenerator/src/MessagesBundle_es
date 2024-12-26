@@ -1,0 +1,9 @@
+title=Generador de Contraseñas Seguras
+includeUppercase=Incluir Letras Mayúsculas
+includeLowercase=Incluir Letras Minúsculas
+includeDigits=Incluir Números
+includeSpecial=Incluir Caracteres Especiales
+length=Longitud
+generate=Generar Contraseña
+errorNoCharacterSet=Por favor seleccione al menos un conjunto de caracteres
+errorInvalidLength=Por favor ingrese una longitud válida

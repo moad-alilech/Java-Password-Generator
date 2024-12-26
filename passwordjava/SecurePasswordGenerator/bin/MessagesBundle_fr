@@ -1,0 +1,9 @@
+title=Générateur de Mot de Passe Sécurisé
+includeUppercase=Inclure des Lettres Majuscules
+includeLowercase=Inclure des Lettres Minuscules
+includeDigits=Inclure des Chiffres
+includeSpecial=Inclure des Caractères Spéciaux
+length=Longueur
+generate=Générer le Mot de Passe
+errorNoCharacterSet=Veuillez sélectionner au moins un ensemble de caractères
+errorInvalidLength=Veuillez entrer une longueur valide

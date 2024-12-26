@@ -1,0 +1,9 @@
+title=Secure Password Generator
+includeUppercase=Include Uppercase Letters
+includeLowercase=Include Lowercase Letters
+includeDigits=Include Digits
+includeSpecial=Include Special Characters
+length=Length
+generate=Generate Password
+errorNoCharacterSet=Please select at least one character set
+errorInvalidLength=Please enter a valid length
